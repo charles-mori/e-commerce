@@ -53,5 +53,5 @@ Sample data is included for all tables. You can run the script to populate your 
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/ecommerce-database.git
-   cd ecommerce-database
+   git clone https://github.com/charles-mori/e-commerce
+   cd e-commerce
